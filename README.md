@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExTimeGameing
+- 👋 Hi, I’m @ExTimeGameing , also know as Egor Bugrov
 - 👀 I’m interested in making games and useful libraries.
 - 🌱 I’m know Java, C++, Python.
 - 📫 How to reach me e-mail: bugrov102002@yandex.ru
